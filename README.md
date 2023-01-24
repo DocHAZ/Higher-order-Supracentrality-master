@@ -13,7 +13,7 @@ This Python code that implements the motif detection is in the paper: ["Ranking 
 # Higher-order Supracentrality Analysis
 The higher-order supracentrality framework is also described in our paper: ["A General Higher-order Supracentrality Framework based on Motifs of Temporal Networks and Multiplex Networks"](https://github.com/DocHAZ/Higher-order-Supracentrality-master)
 
-@article{zhao2019ranking,
+@article{zhao2023,
     title={A General Higher-order Supracentrality Framework based on Motifs of Temporal Networks and Multiplex Networks},
     author={Xiuming Zhao, Hongtao Yu, Shuxin Liu, and Xiaochun Cao},
     journal={PHYSICA A-STATISTICAL MECHANICS AND ITS APPLICATIONS},
